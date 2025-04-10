@@ -5,10 +5,6 @@
             {
                 "appID": "6U83WZNPV6.tw.com.megabank.NewMobileBank.uat",
                 "paths": [ "/nmb/*" ]
-            },
-            {
-                "appID": "6U83WZNPV6.tw.com.megabank.NewMobileBank.uat",
-                "paths": [ "/*" ]
             }
         ]
     }
